@@ -1,0 +1,14 @@
+test_file: '/root/lily_wu/datasets/chestxray14/test_data.csv'
+disease_book: '/root/lily_wu/MedKLIP-main/Sample_zero-shot_Classification_CXR14/observation explanation copy.json'
+
+image_res: 224
+test_batch_size: 64
+
+d_model: 256
+res_base_model: 'resnet50'
+num_queries: 75
+dropout: 0.1
+attribute_set_size: 2
+N: 4
+H: 4
+text_encoder: 'emilyalsentzer/Bio_ClinicalBERT'

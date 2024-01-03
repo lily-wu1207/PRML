@@ -1,0 +1,147 @@
+{"train_lr": "0.000070", "train_loss": "0.291135", "epoch": 0, "val_loss": 0.1683408087667297}
+The average AUROC is 0.6392
+{"train_lr": "0.000058", "train_loss": "0.186295", "epoch": 1, "val_loss": 0.16497765656779795}
+The average AUROC is 0.6469
+{"train_lr": "0.000046", "train_loss": "0.182110", "epoch": 2, "val_loss": 0.1584337149911067}
+The average AUROC is 0.6594
+{"train_lr": "0.000034", "train_loss": "0.175150", "epoch": 3, "val_loss": 0.14907295202069423}
+The average AUROC is 0.6810
+{"train_lr": "0.000022", "train_loss": "0.168534", "epoch": 4, "val_loss": 0.14499768012148492}
+The average AUROC is 0.6976
+{"train_lr": "0.000010", "train_loss": "0.165256", "epoch": 5, "val_loss": 0.14327772651963375}
+The average AUROC is 0.7091
+{"train_lr": "0.000010", "train_loss": "0.163490", "epoch": 6, "val_loss": 0.1419844616423635}
+The average AUROC is 0.7176
+{"train_lr": "0.000010", "train_loss": "0.162562", "epoch": 7, "val_loss": 0.14109519978656487}
+The average AUROC is 0.7239
+{"train_lr": "0.000010", "train_loss": "0.161328", "epoch": 8, "val_loss": 0.14037620352909846}
+The average AUROC is 0.7302
+{"train_lr": "0.000010", "train_loss": "0.160034", "epoch": 9, "val_loss": 0.1394417020766174}
+The average AUROC is 0.7355
+{"train_lr": "0.000010", "train_loss": "0.159371", "epoch": 10, "val_loss": 0.13857590527657201}
+The average AUROC is 0.7403
+{"train_lr": "0.000010", "train_loss": "0.158514", "epoch": 11, "val_loss": 0.1379102847593672}
+The average AUROC is 0.7443
+{"train_lr": "0.000010", "train_loss": "0.157689", "epoch": 12, "val_loss": 0.1374653495629044}
+The average AUROC is 0.7477
+{"train_lr": "0.000010", "train_loss": "0.157301", "epoch": 13, "val_loss": 0.13676246661035454}
+The average AUROC is 0.7507
+{"train_lr": "0.000010", "train_loss": "0.156771", "epoch": 14, "val_loss": 0.13648679863442392}
+The average AUROC is 0.7535
+{"train_lr": "0.000010", "train_loss": "0.156312", "epoch": 15, "val_loss": 0.13620731804300756}
+The average AUROC is 0.7551
+{"train_lr": "0.000010", "train_loss": "0.155860", "epoch": 16, "val_loss": 0.13589620119070306}
+The average AUROC is 0.7570
+{"train_lr": "0.000010", "train_loss": "0.155612", "epoch": 17, "val_loss": 0.13567958750268994}
+The average AUROC is 0.7596
+{"train_lr": "0.000010", "train_loss": "0.155305", "epoch": 18, "val_loss": 0.13541432338602402}
+The average AUROC is 0.7608
+{"train_lr": "0.000010", "train_loss": "0.154983", "epoch": 19, "val_loss": 0.13549423316384063}
+{"train_lr": "0.000011", "train_loss": "0.154738", "epoch": 20, "val_loss": 0.13489314968533375}
+The average AUROC is 0.7641
+{"train_lr": "0.000011", "train_loss": "0.154420", "epoch": 21, "val_loss": 0.13485007360577583}
+The average AUROC is 0.7658
+{"train_lr": "0.000011", "train_loss": "0.154190", "epoch": 22, "val_loss": 0.13483062737128315}
+The average AUROC is 0.7670
+{"train_lr": "0.000011", "train_loss": "0.154253", "epoch": 23, "val_loss": 0.13457612726179993}
+The average AUROC is 0.7681
+{"train_lr": "0.000011", "train_loss": "0.153745", "epoch": 24, "val_loss": 0.13448230045683243}
+The average AUROC is 0.7697
+{"train_lr": "0.000011", "train_loss": "0.153715", "epoch": 25, "val_loss": 0.13423519570599585}
+The average AUROC is 0.7708
+{"train_lr": "0.000011", "train_loss": "0.153742", "epoch": 26, "val_loss": 0.13421383182353833}
+The average AUROC is 0.7711
+{"train_lr": "0.000011", "train_loss": "0.153493", "epoch": 27, "val_loss": 0.1341564615859705}
+The average AUROC is 0.7729
+{"train_lr": "0.000011", "train_loss": "0.153071", "epoch": 28, "val_loss": 0.13409586042604027}
+The average AUROC is 0.7738
+{"train_lr": "0.000011", "train_loss": "0.153225", "epoch": 29, "val_loss": 0.13389235482934644}
+The average AUROC is 0.7745
+{"train_lr": "0.000011", "train_loss": "0.153192", "epoch": 30, "val_loss": 0.1337744177264326}
+The average AUROC is 0.7753
+{"train_lr": "0.000012", "train_loss": "0.152796", "epoch": 31, "val_loss": 0.13370160177788315}
+The average AUROC is 0.7767
+{"train_lr": "0.000012", "train_loss": "0.152756", "epoch": 32, "val_loss": 0.13365629983737187}
+The average AUROC is 0.7769
+{"train_lr": "0.000012", "train_loss": "0.152572", "epoch": 33, "val_loss": 0.13347539371427367}
+The average AUROC is 0.7776
+{"train_lr": "0.000012", "train_loss": "0.152519", "epoch": 34, "val_loss": 0.13353080806486747}
+{"train_lr": "0.000012", "train_loss": "0.152270", "epoch": 35, "val_loss": 0.13337610333281405}
+The average AUROC is 0.7791
+{"train_lr": "0.000012", "train_loss": "0.152143", "epoch": 36, "val_loss": 0.1334016519215177}
+{"train_lr": "0.000012", "train_loss": "0.152446", "epoch": 37, "val_loss": 0.13309484150479822}
+The average AUROC is 0.7813
+{"train_lr": "0.000012", "train_loss": "0.152201", "epoch": 38, "val_loss": 0.13324869435061426}
+{"train_lr": "0.000013", "train_loss": "0.152094", "epoch": 39, "val_loss": 0.13319297343054237}
+{"train_lr": "0.000013", "train_loss": "0.152135", "epoch": 40, "val_loss": 0.13304964803597508}
+The average AUROC is 0.7837
+{"train_lr": "0.000013", "train_loss": "0.151905", "epoch": 41, "val_loss": 0.13293901195420937}
+The average AUROC is 0.7842
+{"train_lr": "0.000013", "train_loss": "0.151855", "epoch": 42, "val_loss": 0.1329415000098593}
+{"train_lr": "0.000013", "train_loss": "0.151751", "epoch": 43, "val_loss": 0.1328136045485735}
+The average AUROC is 0.7853
+{"train_lr": "0.000013", "train_loss": "0.151498", "epoch": 44, "val_loss": 0.13310940629419157}
+{"train_lr": "0.000013", "train_loss": "0.151559", "epoch": 45, "val_loss": 0.13267847545006695}
+The average AUROC is 0.7858
+{"train_lr": "0.000014", "train_loss": "0.151461", "epoch": 46, "val_loss": 0.13260256882537813}
+The average AUROC is 0.7872
+{"train_lr": "0.000014", "train_loss": "0.151557", "epoch": 47, "val_loss": 0.13263312672429226}
+{"train_lr": "0.000014", "train_loss": "0.151479", "epoch": 48, "val_loss": 0.13255280519233031}
+The average AUROC is 0.7882
+{"train_lr": "0.000014", "train_loss": "0.151161", "epoch": 49, "val_loss": 0.13255328093381488}
+{"train_lr": "0.000014", "train_loss": "0.151183", "epoch": 50, "val_loss": 0.1324609362465494}
+The average AUROC is 0.7895
+{"train_lr": "0.000014", "train_loss": "0.151148", "epoch": 51, "val_loss": 0.13232220939415343}
+The average AUROC is 0.7896
+{"train_lr": "0.000015", "train_loss": "0.151285", "epoch": 52, "val_loss": 0.13231688726912527}
+The average AUROC is 0.7900
+{"train_lr": "0.000015", "train_loss": "0.150916", "epoch": 53, "val_loss": 0.1322331803248209}
+The average AUROC is 0.7912
+{"train_lr": "0.000015", "train_loss": "0.150928", "epoch": 54, "val_loss": 0.13246861735687537}
+{"train_lr": "0.000015", "train_loss": "0.150883", "epoch": 55, "val_loss": 0.13239178072442026}
+{"train_lr": "0.000015", "train_loss": "0.150845", "epoch": 56, "val_loss": 0.13212366040576906}
+The average AUROC is 0.7921
+{"train_lr": "0.000015", "train_loss": "0.150761", "epoch": 57, "val_loss": 0.13217472350772688}
+{"train_lr": "0.000015", "train_loss": "0.150791", "epoch": 58, "val_loss": 0.13218659129651153}
+{"train_lr": "0.000016", "train_loss": "0.150686", "epoch": 59, "val_loss": 0.131960310808876}
+The average AUROC is 0.7925
+{"train_lr": "0.000016", "train_loss": "0.150672", "epoch": 60, "val_loss": 0.13199257248026483}
+{"train_lr": "0.000016", "train_loss": "0.150508", "epoch": 61, "val_loss": 0.13200916317017639}
+{"train_lr": "0.000016", "train_loss": "0.150636", "epoch": 62, "val_loss": 0.1319270047413952}
+The average AUROC is 0.7936
+{"train_lr": "0.000016", "train_loss": "0.150653", "epoch": 63, "val_loss": 0.13181387019508026}
+The average AUROC is 0.7945
+{"train_lr": "0.000016", "train_loss": "0.150482", "epoch": 64, "val_loss": 0.13183264686342547}
+{"train_lr": "0.000017", "train_loss": "0.150550", "epoch": 65, "val_loss": 0.13176791873924873}
+The average AUROC is 0.7954
+{"train_lr": "0.000017", "train_loss": "0.150345", "epoch": 66, "val_loss": 0.13182202945737279}
+{"train_lr": "0.000017", "train_loss": "0.150282", "epoch": 67, "val_loss": 0.13175957748556838}
+The average AUROC is 0.7960
+{"train_lr": "0.000017", "train_loss": "0.150180", "epoch": 68, "val_loss": 0.13158481754362583}
+The average AUROC is 0.7964
+{"train_lr": "0.000017", "train_loss": "0.150281", "epoch": 69, "val_loss": 0.13175953782218344}
+{"train_lr": "0.000017", "train_loss": "0.150462", "epoch": 70, "val_loss": 0.13171281632693374}
+{"train_lr": "0.000017", "train_loss": "0.150005", "epoch": 71, "val_loss": 0.13169782499180122}
+{"train_lr": "0.000018", "train_loss": "0.150334", "epoch": 72, "val_loss": 0.1315837706274846}
+The average AUROC is 0.7966
+{"train_lr": "0.000018", "train_loss": "0.149892", "epoch": 73, "val_loss": 0.1316296717918971}
+{"train_lr": "0.000018", "train_loss": "0.149915", "epoch": 74, "val_loss": 0.13148502150879188}
+The average AUROC is 0.7978
+{"train_lr": "0.000018", "train_loss": "0.150077", "epoch": 75, "val_loss": 0.13150065633303978}
+{"train_lr": "0.000018", "train_loss": "0.149875", "epoch": 76, "val_loss": 0.13148429474848158}
+The average AUROC is 0.7982
+{"train_lr": "0.000018", "train_loss": "0.149829", "epoch": 77, "val_loss": 0.1314696415382273}
+The average AUROC is 0.7987
+{"train_lr": "0.000018", "train_loss": "0.149862", "epoch": 78, "val_loss": 0.13146721188198118}
+The average AUROC is 0.7985
+{"train_lr": "0.000018", "train_loss": "0.149990", "epoch": 79, "val_loss": 0.13126054921132677}
+The average AUROC is 0.7988
+{"train_lr": "0.000019", "train_loss": "0.149764", "epoch": 80, "val_loss": 0.13128961721325622}
+{"train_lr": "0.000019", "train_loss": "0.149785", "epoch": 81, "val_loss": 0.13147220431881793}
+{"train_lr": "0.000019", "train_loss": "0.149792", "epoch": 82, "val_loss": 0.13151458179687753}
+{"train_lr": "0.000019", "train_loss": "0.149640", "epoch": 83, "val_loss": 0.131381302852841}
+{"train_lr": "0.000019", "train_loss": "0.149716", "epoch": 84, "val_loss": 0.13127245951224775}
+{"train_lr": "0.000019", "train_loss": "0.149613", "epoch": 85, "val_loss": 0.1312568324672825}
+The average AUROC is 0.8006
+{"train_lr": "0.000019", "train_loss": "0.149554", "epoch": 86, "val_loss": 0.13134532520437942}
+{"train_lr": "0.000019", "train_loss": "0.149466", "epoch": 87, "val_loss": 0.13136312245007822}

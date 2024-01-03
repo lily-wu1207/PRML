@@ -1,0 +1,14 @@
+The average AUROC is 0.7961
+The average AUROC is 0.7989
+The average AUROC is 0.8008
+The average AUROC is 0.8023
+The average AUROC is 0.8043
+The average AUROC is 0.8065
+The average AUROC is 0.8086
+The average AUROC is 0.8110
+The average AUROC is 0.8124
+The average AUROC is 0.8148
+The average AUROC is 0.8163
+The average AUROC is 0.8181
+The average AUROC is 0.8195
+The average AUROC is 0.8210

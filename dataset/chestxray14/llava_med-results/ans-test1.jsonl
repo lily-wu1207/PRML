@@ -1,0 +1,1000 @@
+{"question_id": 0, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 1, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Hodgkin's lymphoma", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 2, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 3, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 4, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 5, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 6, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 7, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 8, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 9, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 10, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 11, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COPD", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 12, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 13, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 14, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 15, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 16, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 17, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hiv", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 18, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 19, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 20, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 21, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 22, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 23, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 24, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 25, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 26, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 27, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 28, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 29, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 30, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 31, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 32, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 33, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 34, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 35, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 36, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 37, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: patient has lupus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 38, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 39, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 40, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 41, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chagas", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 42, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 43, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 44, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 45, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 46, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 47, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 48, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 49, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 50, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 51, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 52, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 53, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 54, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 55, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: patient has multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 56, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 57, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 58, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 59, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 60, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 61, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 62, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 63, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 64, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 65, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 66, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 67, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 68, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 69, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 70, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has type 1 diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 71, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 72, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 73, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 74, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 75, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 76, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 77, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 78, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 79, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 80, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 81, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 82, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 83, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 84, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 85, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 86, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 87, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 88, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 89, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 90, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 91, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 92, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 93, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 94, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chagas", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 95, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 96, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Chronic Obstructive Pulmonary Disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 97, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 98, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 99, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 100, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 101, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 102, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 103, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 104, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 105, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 106, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: sars", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 107, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 108, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 109, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 110, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 111, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 112, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 113, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 114, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 115, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: systemic lupus erythematosus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 116, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 117, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 118, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 119, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cystic fibrosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 120, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 121, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 122, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 123, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 124, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 125, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 126, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 127, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 128, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 129, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 130, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 131, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 132, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COVID-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 133, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 134, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 135, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 136, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HSV-1", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 137, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: pulmonary nodules", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 138, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 139, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 140, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 141, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 142, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis B", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 143, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 144, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 145, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 146, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 147, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 148, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 149, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 150, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 151, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 152, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: patient has multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 153, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 154, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 155, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 156, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 157, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 158, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 159, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 160, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 161, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 162, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 163, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 164, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 165, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 166, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 167, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: gout", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 168, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: none", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 169, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 170, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 171, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 172, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 173, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 174, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 175, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 176, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 177, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 178, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 179, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 180, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 181, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 182, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 183, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 184, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 185, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 186, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 187, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 188, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 189, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 190, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 191, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 192, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 193, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 194, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 195, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 196, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 197, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: lupus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 198, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 199, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 200, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 201, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 202, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hypothyroidism", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 203, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 204, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 205, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 206, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 207, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 208, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 209, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 210, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 211, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 212, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 213, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 214, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 215, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 216, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: pemphigus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 217, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 218, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 219, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 220, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 221, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 222, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 223, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 224, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 225, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: epidural hematoma", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 226, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 227, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 228, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 229, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 230, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 231, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 232, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 233, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 234, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 235, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 236, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 237, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 238, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 239, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 240, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 241, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 242, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 243, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 244, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 245, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 246, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 247, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 248, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 249, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 250, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Huntington's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 251, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 252, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: none", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 253, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 254, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 255, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 256, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: aids", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 257, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COVID-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 258, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 259, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 260, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 261, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 262, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 263, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 264, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 265, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 266, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 267, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 268, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 269, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 270, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 271, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 272, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 273, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 274, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 275, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 276, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 277, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 278, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 279, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 280, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 281, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 282, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 283, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: syphilis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 284, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 285, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: right sided pleural effusion", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 286, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 287, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 288, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 289, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 290, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 291, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 292, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 293, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: H1N1", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 294, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 295, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 296, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: patient has hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 297, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 298, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 299, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 300, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 301, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 302, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 303, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 304, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chicken pox", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 305, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 306, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 307, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 308, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 309, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 310, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 311, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 312, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 313, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 314, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 315, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 316, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 317, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 318, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 319, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 320, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 321, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 322, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 323, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 324, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 325, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 326, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 327, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 328, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 329, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 330, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 331, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 332, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 333, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 334, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 335, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 336, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 337, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 338, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 339, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 340, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinsonism", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 341, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 342, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 343, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 344, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 345, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 346, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 347, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 348, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 349, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 350, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has sarcoidosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 351, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: sars", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 352, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 353, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 354, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 355, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 356, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 357, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 358, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 359, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 360, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 361, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 362, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 363, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 364, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 365, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 366, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 367, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 368, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 369, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 370, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 371, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 372, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (copd)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 373, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 374, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 375, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 376, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 377, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 378, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: none", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 379, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 380, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 381, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 382, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 383, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 384, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 385, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 386, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 387, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 388, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 389, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 390, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 391, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 392, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 393, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: none", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 394, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 395, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 396, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 397, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 398, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 399, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 400, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 401, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 402, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 403, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 404, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 405, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 406, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 407, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 408, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 409, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 410, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 411, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 412, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 413, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 414, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 415, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 416, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 417, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 418, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 419, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 420, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 421, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 422, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: pulmonary nodules", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 423, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 424, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 425, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 426, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 427, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 428, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 429, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: aortic stenosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 430, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 431, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 432, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 433, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 434, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 435, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 436, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 437, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 438, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 439, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 440, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 441, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 442, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 443, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 444, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 445, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 446, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 447, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 448, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 449, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 450, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 451, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 452, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 453, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 454, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 455, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 456, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 457, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 458, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 459, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 460, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 461, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 462, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 463, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 464, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 465, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 466, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 467, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 468, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 469, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 470, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 471, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 472, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 473, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 474, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 475, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 476, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 477, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 478, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 479, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 480, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 481, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 482, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 483, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 484, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 485, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 486, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 487, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: systemic lupus erythematosus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 488, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 489, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 490, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 491, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 492, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 493, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 494, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 495, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 496, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 497, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 498, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: syphilis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 499, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (copd)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 500, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 501, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 502, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 503, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 504, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 505, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 506, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has viral meningitis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 507, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 508, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 509, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 510, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 511, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 512, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: epidermal growth factor receptor-positive", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 513, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 514, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 515, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 516, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 517, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 518, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 519, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 520, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 521, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 522, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 523, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 524, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 525, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 526, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 527, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 528, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 529, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COVID-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 530, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 531, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 532, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 533, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 534, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 535, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 536, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 537, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 538, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 539, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 540, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 541, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 542, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 543, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 544, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 545, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 546, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 547, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 548, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 549, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 550, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 551, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 552, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 553, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 554, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 555, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 556, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 557, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 558, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 559, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 560, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 561, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 562, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 563, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 564, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 565, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 566, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 567, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 568, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 569, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 570, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 571, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HSV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 572, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 573, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 574, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 575, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 576, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 577, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 578, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 579, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 580, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 581, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 582, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 583, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 584, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 585, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 586, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 587, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: epidermal necrosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 588, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 589, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 590, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 591, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 592, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 593, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 594, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 595, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 596, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 597, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 598, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 599, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 600, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 601, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 602, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 603, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 604, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 605, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 606, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 607, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 608, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 609, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 610, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 611, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 612, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 613, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 614, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 615, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 616, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 617, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 618, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 619, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 620, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 621, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 622, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: none", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 623, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 624, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 625, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 626, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 627, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: heart disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 628, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 629, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 630, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 631, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 632, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 633, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 634, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 635, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 636, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COVID-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 637, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 638, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 639, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 640, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 641, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 642, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 643, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 644, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 645, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 646, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 647, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 648, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 649, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: gastritis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 650, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 651, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 652, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 653, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 654, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 655, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 656, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 657, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 658, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 659, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 660, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chagas", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 661, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 662, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 663, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 664, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 665, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 666, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 667, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 668, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 669, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 670, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 671, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 672, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 673, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 674, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 675, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 676, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 677, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 678, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 679, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 680, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 681, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 682, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 683, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 684, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic kidney disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 685, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 686, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 687, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 688, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 689, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 690, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 691, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 692, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 693, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 694, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 695, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 696, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 697, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 698, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 699, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 700, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 701, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 702, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 703, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 704, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 705, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 706, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 707, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 708, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 709, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 710, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 711, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 712, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 713, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 714, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 715, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 716, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 717, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 718, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 719, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 720, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 721, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 722, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 723, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 724, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 725, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 726, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 727, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 728, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 729, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 730, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 731, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 732, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 733, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 734, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 735, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 736, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: sars", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 737, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 738, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 739, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 740, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 741, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 742, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 743, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 744, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 745, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 746, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 747, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 748, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 749, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 750, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 751, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 752, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 753, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: tuberculosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 754, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 755, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 756, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 757, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 758, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 759, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 760, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 761, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 762, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 763, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 764, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 765, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 766, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 767, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 768, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 769, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 770, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 771, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 772, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 773, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hasegawa disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 774, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 775, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: aids", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 776, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 777, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 778, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 779, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 780, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 781, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 782, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 783, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 784, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 785, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 786, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 787, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 788, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 789, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 790, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 791, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 792, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 793, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 794, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 795, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 796, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 797, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 798, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 799, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 800, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 801, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 802, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 803, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 804, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: sars-cov-2", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 805, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 806, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 807, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 808, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 809, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 810, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 811, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 812, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 813, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 814, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 815, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 816, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 817, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 818, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 819, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 820, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 821, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 822, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 823, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: has", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 824, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 825, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 826, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 827, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 828, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 829, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 830, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 831, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 832, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 833, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 834, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 835, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 836, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 837, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 838, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: syphilis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 839, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 840, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 841, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 842, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 843, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 844, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: heart disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 845, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 846, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 847, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 848, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 849, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 850, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 851, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 852, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 853, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 854, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 855, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 856, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 857, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 858, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 859, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 860, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 861, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 862, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 863, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 864, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 865, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease does the patient has", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 866, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 867, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: beriberi", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 868, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 869, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 870, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 871, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 872, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 873, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 874, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 875, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: heart disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 876, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 877, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 878, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Chronic sinusitis vs. Chronic rhinosinusitis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 879, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 880, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 881, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 882, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 883, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: COVID-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 884, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: diabetes", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 885, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 886, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 887, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 888, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 889, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 890, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: right sided pleural effusion", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 891, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 892, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 893, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 894, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 895, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 896, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HCC", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 897, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 898, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 899, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 900, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 901, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 902, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 903, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 904, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 905, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: heart disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 906, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 907, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 908, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 909, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 910, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 911, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 912, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 913, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 914, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 915, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 916, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 917, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 918, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 919, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 920, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 921, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 922, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 923, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 924, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 925, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 926, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 927, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 928, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 929, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 930, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 931, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 932, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 933, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 934, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Adenopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 935, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hypothyroidism", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 936, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 937, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 938, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis b", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 939, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 940, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 941, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 942, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 943, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 944, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 945, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 946, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 947, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 948, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 949, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 950, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: cardiomyopathy", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 951, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 952, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 953, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: HIV", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 954, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 955, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 956, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 957, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 958, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: chronic obstructive pulmonary disease (COPD)", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 959, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: which disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 960, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 961, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 962, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 963, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 964, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 965, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 966, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 967, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 968, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 969, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 970, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 971, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: pneumonia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 972, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 973, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 974, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: AIDS", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 975, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 976, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 977, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 978, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 979, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 980, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 981, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 982, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 983, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 984, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 985, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: sars", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 986, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: hepatitis c", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 987, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: lymphoma", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 988, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: Covid-19", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 989, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 990, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 991, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 992, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 993, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 994, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 995, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: emphysema", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 996, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 997, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 998, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": 999, "prompt": "which disease does the patient has?\n<image>", "text": "Assistant: multiple sclerosis", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}

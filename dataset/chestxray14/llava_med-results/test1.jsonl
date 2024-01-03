@@ -1,0 +1,11 @@
+{"question_id": "00000003_000", "prompt": "Describe the picture of the patient.\n<image>", "text": "Assistant: right sided pleural effusion", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "Describe the picture of a female patient.\n<image>", "text": "Assistant: Medical history of the patient", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "Describe the picture of a male patient.\n<image>", "text": "Assistant: A male patient with a beard and mustache", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the female patient has?\n<image>", "text": "Assistant: breast cancer", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the female patient has?\n<image>", "text": "Assistant: breast cancer", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the male patient has?\n<image>", "text": "Assistant: male pattern baldness", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the male patient has?\n<image>", "text": "Assistant: prostate", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the elderly patient has?\n<image>", "text": "Assistant: Alzheimer's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the elderly patient has?\n<image>", "text": "Assistant: Parkinson's disease", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the yong patient has?\n<image>", "text": "Assistant: Coronavirus", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}
+{"question_id": "00000003_000", "prompt": "which disease does the yong patient has?\n<image>", "text": "Assistant: leukemia", "model_id": "/root/lily_wu/LLaVA-Med/data/target_path2", "metadata": {}}

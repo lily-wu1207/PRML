@@ -1,0 +1,83 @@
+neutral:
+cardiomyopathy 19
+ hodgkin's lymphoma 1
+ multiple sclerosis 550
+ emphysema 114
+ hepatitis c 57
+ copd 1
+ covid-19 82
+ covid 1
+ hiv 22
+ leukemia 12
+ patient has lupus 1
+ chagas 3
+ patient has multiple sclerosis 2
+ has type 1 diabetes 1
+ chronic obstructive pulmonary disease (copd) 8
+ which disease 11
+ adenopathy 12
+ tuberculosis 11
+ aids 10
+ sars 4
+ systemic lupus erythematosus 2
+ cystic fibrosis 1
+ coronavirus 6
+ hsv-1 1
+ pulmonary nodules 2
+ hepatitis b 2
+ parkinson's disease 10
+ gout 1
+ none 5
+ lupus 1
+ hypothyroidism 2
+ pemphigus 1
+ epidural hematoma 1
+ huntington's disease 1
+ syphilis 3
+ right sided pleural effusion 2
+ h1n1 1
+ patient has hepatitis c 1
+ chicken pox 1
+ parkinsonism 1
+ has sarcoidosis 1
+ aortic stenosis 1
+ diabetes 9
+ has viral meningitis 1
+ epidermal growth factor receptor-positive 1
+ hsv 1
+ epidermal necrosis 1
+ heart disease 4
+ gastritis 1
+ has 3
+ chronic kidney disease 1
+ hasegawa disease 1
+ sars-cov-2 1
+ chronic obstructive pulmonary disease 1
+ which disease does the patient has 1
+ beriberi 1
+ chronic sinusitis vs. chronic rhinosinusitis 1
+ hcc 1
+ pneumonia 1
+ lymphoma 1
+
+ female:
+ multiple sclerosis 930
+ emphysema 25
+ alzheimer's disease 2
+ herpes 5
+ jwt 1
+ systemic lupus erythematosus 6
+ none 1
+ covid-19 6
+ hepatitis c 2
+ she has leukemia 4
+ epidermal nevus 3
+ epidural hematoma 7
+ she is affected by multiple sclerosis 1
+ alzheimer's 1
+ breast cancer 1
+ alzheimers 1
+ hsv-2 1
+ stomach cancer 1
+ beriberi 1
+ autoimmune hepatitis 1

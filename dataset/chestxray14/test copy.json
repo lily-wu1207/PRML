@@ -1,0 +1,88 @@
+[ {
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "Describe the picture of the patient."
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "Describe the picture of a female patient."
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "Describe the picture of a male patient."
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the female patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the female patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the male patient has?"
+},{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the male patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the elderly patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the elderly patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the yong patient has?"
+},
+{
+    "age": 81,
+    "gender": "F",
+    "image_name": "test.jpg",
+    "pos": "PA",
+    "qid": "00000003_000",
+    "question": "which disease does the yong patient has?"
+}
+]
